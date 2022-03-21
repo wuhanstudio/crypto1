@@ -2,7 +2,7 @@
 
 Crypto1 is a proprietary stream cipher and authentication protocol created by NXP for its MIFARE Classic RFID contactless smart cards  launched in 1994. However, it was reverse engineered by cryptographic researchers in 2008 [1]. Soon after, a variety of attacks were published that effectively broke the security [2], even for patched and hardened MIFARE Classic cards [3] [4]. 
 
-This is a good example for us to learn how stream cipher and authentication protocols work, and how to implement practical attacks against them.
+This could be an example for us to learn how stream cipher and authentication protocols work, and how to implement practical attacks against them.
 
 ## Reference
 
